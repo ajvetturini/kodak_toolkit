@@ -20,7 +20,7 @@ Since this toolkit is in an early build, it is not currently available on PyPi /
    - pip install -e .
 
 This should install the kodak_toolkit to your environment which you can then import into a Python file via: \
-**kodak.kodak_creator import KodakPlots**
+**from kodak.kodak_creator import KodakPlots**
 
 # Requirements
 - Python 3.9
