@@ -14,13 +14,13 @@ I am working on adding the Example scripts to this readme, but if you are intere
 # How to install
 Since this toolkit is in an early build, it is not currently available on PyPi / pip. Therefore, to install (or update) the package, please run the following commands.
 1) Create a new virtual environment in anaconda (_recommended_)  
-2) Open the terminal and run the following commands in order:
+2) Open the terminal and run the following commands in order (you can just copy and paste the whole line. Please note the period on the 3rd bullet)
    - git clone https://github.com/ajvetturini/kodak_toolkit.git
    - cd kodak_toolkit
    - pip install -e .
 
-This should install the kodak_toolkit to your environment which you can then import into a Python file via:
-"from kodak.kodak import KodakPlots"
+This should install the kodak_toolkit to your environment which you can then import into a Python file via: \
+**from kodak.kodak import KodakPlots**
 
 # Requirements
 - Python 3.9
